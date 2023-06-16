@@ -1,0 +1,84 @@
+C:\Users\Asus\Desktop\Proekt-Kurs\Proekt\ProektIS\ProektIS.Utility\bin\Debug\net6.0\ProektIS.Utility.deps.json
+C:\Users\Asus\Desktop\Proekt-Kurs\Proekt\ProektIS\ProektIS.Utility\bin\Debug\net6.0\ProektIS.Utility.dll
+C:\Users\Asus\Desktop\Proekt-Kurs\Proekt\ProektIS\ProektIS.Utility\bin\Debug\net6.0\ProektIS.Utility.pdb
+C:\Users\Asus\Desktop\Proekt-Kurs\Proekt\ProektIS\ProektIS.Utility\obj\Debug\net6.0\ProektIS.Utility.csproj.AssemblyReference.cache
+C:\Users\Asus\Desktop\Proekt-Kurs\Proekt\ProektIS\ProektIS.Utility\obj\Debug\net6.0\ProektIS.Utility.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Desktop\Proekt-Kurs\Proekt\ProektIS\ProektIS.Utility\obj\Debug\net6.0\ProektIS.Utility.AssemblyInfoInputs.cache
+C:\Users\Asus\Desktop\Proekt-Kurs\Proekt\ProektIS\ProektIS.Utility\obj\Debug\net6.0\ProektIS.Utility.AssemblyInfo.cs
+C:\Users\Asus\Desktop\Proekt-Kurs\Proekt\ProektIS\ProektIS.Utility\obj\Debug\net6.0\ProektIS.Utility.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\Proekt-Kurs\Proekt\ProektIS\ProektIS.Utility\obj\Debug\net6.0\ProektIS.Utility.dll
+C:\Users\Asus\Desktop\Proekt-Kurs\Proekt\ProektIS\ProektIS.Utility\obj\Debug\net6.0\refint\ProektIS.Utility.dll
+C:\Users\Asus\Desktop\Proekt-Kurs\Proekt\ProektIS\ProektIS.Utility\obj\Debug\net6.0\ProektIS.Utility.pdb
+C:\Users\Asus\Desktop\Proekt-Kurs\Proekt\ProektIS\ProektIS.Utility\obj\Debug\net6.0\ref\ProektIS.Utility.dll
+C:\Users\SMK\Downloads\wetransfer_proekt-kurs_2023-01-03_0010\Proekt-Kurs\Proekt\ProektIS\ProektIS.Utility\bin\Debug\net6.0\ProektIS.Utility.deps.json
+C:\Users\SMK\Downloads\wetransfer_proekt-kurs_2023-01-03_0010\Proekt-Kurs\Proekt\ProektIS\ProektIS.Utility\bin\Debug\net6.0\ProektIS.Utility.dll
+C:\Users\SMK\Downloads\wetransfer_proekt-kurs_2023-01-03_0010\Proekt-Kurs\Proekt\ProektIS\ProektIS.Utility\bin\Debug\net6.0\ProektIS.Utility.pdb
+C:\Users\SMK\Downloads\wetransfer_proekt-kurs_2023-01-03_0010\Proekt-Kurs\Proekt\ProektIS\ProektIS.Utility\obj\Debug\net6.0\ProektIS.Utility.csproj.AssemblyReference.cache
+C:\Users\SMK\Downloads\wetransfer_proekt-kurs_2023-01-03_0010\Proekt-Kurs\Proekt\ProektIS\ProektIS.Utility\obj\Debug\net6.0\ProektIS.Utility.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SMK\Downloads\wetransfer_proekt-kurs_2023-01-03_0010\Proekt-Kurs\Proekt\ProektIS\ProektIS.Utility\obj\Debug\net6.0\ProektIS.Utility.AssemblyInfoInputs.cache
+C:\Users\SMK\Downloads\wetransfer_proekt-kurs_2023-01-03_0010\Proekt-Kurs\Proekt\ProektIS\ProektIS.Utility\obj\Debug\net6.0\ProektIS.Utility.AssemblyInfo.cs
+C:\Users\SMK\Downloads\wetransfer_proekt-kurs_2023-01-03_0010\Proekt-Kurs\Proekt\ProektIS\ProektIS.Utility\obj\Debug\net6.0\ProektIS.Utility.csproj.CoreCompileInputs.cache
+C:\Users\SMK\Downloads\wetransfer_proekt-kurs_2023-01-03_0010\Proekt-Kurs\Proekt\ProektIS\ProektIS.Utility\obj\Debug\net6.0\ProektIS.Utility.dll
+C:\Users\SMK\Downloads\wetransfer_proekt-kurs_2023-01-03_0010\Proekt-Kurs\Proekt\ProektIS\ProektIS.Utility\obj\Debug\net6.0\refint\ProektIS.Utility.dll
+C:\Users\SMK\Downloads\wetransfer_proekt-kurs_2023-01-03_0010\Proekt-Kurs\Proekt\ProektIS\ProektIS.Utility\obj\Debug\net6.0\ProektIS.Utility.pdb
+C:\Users\SMK\Downloads\wetransfer_proekt-kurs_2023-01-03_0010\Proekt-Kurs\Proekt\ProektIS\ProektIS.Utility\obj\Debug\net6.0\ref\ProektIS.Utility.dll
+C:\Users\User\Desktop\Proekt AAV-1\Proekt AAV\Proekt-Kurs\Proekt\ProektIS\ProektIS.Utility\bin\Debug\net6.0\ProektIS.Utility.deps.json
+C:\Users\User\Desktop\Proekt AAV-1\Proekt AAV\Proekt-Kurs\Proekt\ProektIS\ProektIS.Utility\bin\Debug\net6.0\ProektIS.Utility.dll
+C:\Users\User\Desktop\Proekt AAV-1\Proekt AAV\Proekt-Kurs\Proekt\ProektIS\ProektIS.Utility\bin\Debug\net6.0\ProektIS.Utility.pdb
+C:\Users\User\Desktop\Proekt AAV-1\Proekt AAV\Proekt-Kurs\Proekt\ProektIS\ProektIS.Utility\obj\Debug\net6.0\ProektIS.Utility.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Proekt AAV-1\Proekt AAV\Proekt-Kurs\Proekt\ProektIS\ProektIS.Utility\obj\Debug\net6.0\ProektIS.Utility.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Proekt AAV-1\Proekt AAV\Proekt-Kurs\Proekt\ProektIS\ProektIS.Utility\obj\Debug\net6.0\ProektIS.Utility.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Proekt AAV-1\Proekt AAV\Proekt-Kurs\Proekt\ProektIS\ProektIS.Utility\obj\Debug\net6.0\ProektIS.Utility.AssemblyInfo.cs
+C:\Users\User\Desktop\Proekt AAV-1\Proekt AAV\Proekt-Kurs\Proekt\ProektIS\ProektIS.Utility\obj\Debug\net6.0\ProektIS.Utility.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Proekt AAV-1\Proekt AAV\Proekt-Kurs\Proekt\ProektIS\ProektIS.Utility\obj\Debug\net6.0\ProektIS.Utility.dll
+C:\Users\User\Desktop\Proekt AAV-1\Proekt AAV\Proekt-Kurs\Proekt\ProektIS\ProektIS.Utility\obj\Debug\net6.0\refint\ProektIS.Utility.dll
+C:\Users\User\Desktop\Proekt AAV-1\Proekt AAV\Proekt-Kurs\Proekt\ProektIS\ProektIS.Utility\obj\Debug\net6.0\ProektIS.Utility.pdb
+C:\Users\User\Desktop\Proekt AAV-1\Proekt AAV\Proekt-Kurs\Proekt\ProektIS\ProektIS.Utility\obj\Debug\net6.0\ref\ProektIS.Utility.dll
+C:\Users\Asus\Desktop\Proektv2\Proekt AAV-1\Proekt AAV\Proekt-Kurs\Proekt\ProektIS\ProektIS.Utility\bin\Debug\net6.0\ProektIS.Utility.deps.json
+C:\Users\Asus\Desktop\Proektv2\Proekt AAV-1\Proekt AAV\Proekt-Kurs\Proekt\ProektIS\ProektIS.Utility\bin\Debug\net6.0\ProektIS.Utility.dll
+C:\Users\Asus\Desktop\Proektv2\Proekt AAV-1\Proekt AAV\Proekt-Kurs\Proekt\ProektIS\ProektIS.Utility\bin\Debug\net6.0\ProektIS.Utility.pdb
+C:\Users\Asus\Desktop\Proektv2\Proekt AAV-1\Proekt AAV\Proekt-Kurs\Proekt\ProektIS\ProektIS.Utility\obj\Debug\net6.0\ProektIS.Utility.csproj.AssemblyReference.cache
+C:\Users\Asus\Desktop\Proektv2\Proekt AAV-1\Proekt AAV\Proekt-Kurs\Proekt\ProektIS\ProektIS.Utility\obj\Debug\net6.0\ProektIS.Utility.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Desktop\Proektv2\Proekt AAV-1\Proekt AAV\Proekt-Kurs\Proekt\ProektIS\ProektIS.Utility\obj\Debug\net6.0\ProektIS.Utility.AssemblyInfoInputs.cache
+C:\Users\Asus\Desktop\Proektv2\Proekt AAV-1\Proekt AAV\Proekt-Kurs\Proekt\ProektIS\ProektIS.Utility\obj\Debug\net6.0\ProektIS.Utility.AssemblyInfo.cs
+C:\Users\Asus\Desktop\Proektv2\Proekt AAV-1\Proekt AAV\Proekt-Kurs\Proekt\ProektIS\ProektIS.Utility\obj\Debug\net6.0\ProektIS.Utility.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\Proektv2\Proekt AAV-1\Proekt AAV\Proekt-Kurs\Proekt\ProektIS\ProektIS.Utility\obj\Debug\net6.0\ProektIS.Utility.dll
+C:\Users\Asus\Desktop\Proektv2\Proekt AAV-1\Proekt AAV\Proekt-Kurs\Proekt\ProektIS\ProektIS.Utility\obj\Debug\net6.0\refint\ProektIS.Utility.dll
+C:\Users\Asus\Desktop\Proektv2\Proekt AAV-1\Proekt AAV\Proekt-Kurs\Proekt\ProektIS\ProektIS.Utility\obj\Debug\net6.0\ProektIS.Utility.pdb
+C:\Users\Asus\Desktop\Proektv2\Proekt AAV-1\Proekt AAV\Proekt-Kurs\Proekt\ProektIS\ProektIS.Utility\obj\Debug\net6.0\ref\ProektIS.Utility.dll
+C:\Users\User\Desktop\Proektv2\Proekt AAV-1\Proekt AAV\Proekt-Kurs\Proekt\ProektIS\ProektIS.Utility\bin\Debug\net6.0\ProektIS.Utility.deps.json
+C:\Users\User\Desktop\Proektv2\Proekt AAV-1\Proekt AAV\Proekt-Kurs\Proekt\ProektIS\ProektIS.Utility\bin\Debug\net6.0\ProektIS.Utility.dll
+C:\Users\User\Desktop\Proektv2\Proekt AAV-1\Proekt AAV\Proekt-Kurs\Proekt\ProektIS\ProektIS.Utility\bin\Debug\net6.0\ProektIS.Utility.pdb
+C:\Users\User\Desktop\Proektv2\Proekt AAV-1\Proekt AAV\Proekt-Kurs\Proekt\ProektIS\ProektIS.Utility\obj\Debug\net6.0\ProektIS.Utility.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Proektv2\Proekt AAV-1\Proekt AAV\Proekt-Kurs\Proekt\ProektIS\ProektIS.Utility\obj\Debug\net6.0\ProektIS.Utility.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Proektv2\Proekt AAV-1\Proekt AAV\Proekt-Kurs\Proekt\ProektIS\ProektIS.Utility\obj\Debug\net6.0\ProektIS.Utility.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Proektv2\Proekt AAV-1\Proekt AAV\Proekt-Kurs\Proekt\ProektIS\ProektIS.Utility\obj\Debug\net6.0\ProektIS.Utility.AssemblyInfo.cs
+C:\Users\User\Desktop\Proektv2\Proekt AAV-1\Proekt AAV\Proekt-Kurs\Proekt\ProektIS\ProektIS.Utility\obj\Debug\net6.0\ProektIS.Utility.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Proektv2\Proekt AAV-1\Proekt AAV\Proekt-Kurs\Proekt\ProektIS\ProektIS.Utility\obj\Debug\net6.0\ProektIS.Utility.dll
+C:\Users\User\Desktop\Proektv2\Proekt AAV-1\Proekt AAV\Proekt-Kurs\Proekt\ProektIS\ProektIS.Utility\obj\Debug\net6.0\refint\ProektIS.Utility.dll
+C:\Users\User\Desktop\Proektv2\Proekt AAV-1\Proekt AAV\Proekt-Kurs\Proekt\ProektIS\ProektIS.Utility\obj\Debug\net6.0\ProektIS.Utility.pdb
+C:\Users\User\Desktop\Proektv2\Proekt AAV-1\Proekt AAV\Proekt-Kurs\Proekt\ProektIS\ProektIS.Utility\obj\Debug\net6.0\ref\ProektIS.Utility.dll
+C:\Users\User\Desktop\wetransfer_proektv2_2023-02-15_2024\Proektv2\Proekt AAV-1\Proekt AAV\Proekt-Kurs\Proekt\ProektIS\ProektIS.Utility\bin\Debug\net6.0\ProektIS.Utility.deps.json
+C:\Users\User\Desktop\wetransfer_proektv2_2023-02-15_2024\Proektv2\Proekt AAV-1\Proekt AAV\Proekt-Kurs\Proekt\ProektIS\ProektIS.Utility\bin\Debug\net6.0\ProektIS.Utility.dll
+C:\Users\User\Desktop\wetransfer_proektv2_2023-02-15_2024\Proektv2\Proekt AAV-1\Proekt AAV\Proekt-Kurs\Proekt\ProektIS\ProektIS.Utility\bin\Debug\net6.0\ProektIS.Utility.pdb
+C:\Users\User\Desktop\wetransfer_proektv2_2023-02-15_2024\Proektv2\Proekt AAV-1\Proekt AAV\Proekt-Kurs\Proekt\ProektIS\ProektIS.Utility\obj\Debug\net6.0\ProektIS.Utility.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\wetransfer_proektv2_2023-02-15_2024\Proektv2\Proekt AAV-1\Proekt AAV\Proekt-Kurs\Proekt\ProektIS\ProektIS.Utility\obj\Debug\net6.0\ProektIS.Utility.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\wetransfer_proektv2_2023-02-15_2024\Proektv2\Proekt AAV-1\Proekt AAV\Proekt-Kurs\Proekt\ProektIS\ProektIS.Utility\obj\Debug\net6.0\ProektIS.Utility.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\wetransfer_proektv2_2023-02-15_2024\Proektv2\Proekt AAV-1\Proekt AAV\Proekt-Kurs\Proekt\ProektIS\ProektIS.Utility\obj\Debug\net6.0\ProektIS.Utility.AssemblyInfo.cs
+C:\Users\User\Desktop\wetransfer_proektv2_2023-02-15_2024\Proektv2\Proekt AAV-1\Proekt AAV\Proekt-Kurs\Proekt\ProektIS\ProektIS.Utility\obj\Debug\net6.0\ProektIS.Utility.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\wetransfer_proektv2_2023-02-15_2024\Proektv2\Proekt AAV-1\Proekt AAV\Proekt-Kurs\Proekt\ProektIS\ProektIS.Utility\obj\Debug\net6.0\ProektIS.Utility.dll
+C:\Users\User\Desktop\wetransfer_proektv2_2023-02-15_2024\Proektv2\Proekt AAV-1\Proekt AAV\Proekt-Kurs\Proekt\ProektIS\ProektIS.Utility\obj\Debug\net6.0\refint\ProektIS.Utility.dll
+C:\Users\User\Desktop\wetransfer_proektv2_2023-02-15_2024\Proektv2\Proekt AAV-1\Proekt AAV\Proekt-Kurs\Proekt\ProektIS\ProektIS.Utility\obj\Debug\net6.0\ProektIS.Utility.pdb
+C:\Users\User\Desktop\wetransfer_proektv2_2023-02-15_2024\Proektv2\Proekt AAV-1\Proekt AAV\Proekt-Kurs\Proekt\ProektIS\ProektIS.Utility\obj\Debug\net6.0\ref\ProektIS.Utility.dll
+C:\Users\User\Desktop\The-Reading-Nook-main\The-Reading-Nook-main\ProektIS.Utility\bin\Debug\net6.0\ProektIS.Utility.deps.json
+C:\Users\User\Desktop\The-Reading-Nook-main\The-Reading-Nook-main\ProektIS.Utility\bin\Debug\net6.0\ProektIS.Utility.dll
+C:\Users\User\Desktop\The-Reading-Nook-main\The-Reading-Nook-main\ProektIS.Utility\bin\Debug\net6.0\ProektIS.Utility.pdb
+C:\Users\User\Desktop\The-Reading-Nook-main\The-Reading-Nook-main\ProektIS.Utility\obj\Debug\net6.0\ProektIS.Utility.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\The-Reading-Nook-main\The-Reading-Nook-main\ProektIS.Utility\obj\Debug\net6.0\ProektIS.Utility.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\The-Reading-Nook-main\The-Reading-Nook-main\ProektIS.Utility\obj\Debug\net6.0\ProektIS.Utility.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\The-Reading-Nook-main\The-Reading-Nook-main\ProektIS.Utility\obj\Debug\net6.0\ProektIS.Utility.AssemblyInfo.cs
+C:\Users\User\Desktop\The-Reading-Nook-main\The-Reading-Nook-main\ProektIS.Utility\obj\Debug\net6.0\ProektIS.Utility.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\The-Reading-Nook-main\The-Reading-Nook-main\ProektIS.Utility\obj\Debug\net6.0\ProektIS.Utility.dll
+C:\Users\User\Desktop\The-Reading-Nook-main\The-Reading-Nook-main\ProektIS.Utility\obj\Debug\net6.0\refint\ProektIS.Utility.dll
+C:\Users\User\Desktop\The-Reading-Nook-main\The-Reading-Nook-main\ProektIS.Utility\obj\Debug\net6.0\ProektIS.Utility.pdb
+C:\Users\User\Desktop\The-Reading-Nook-main\The-Reading-Nook-main\ProektIS.Utility\obj\Debug\net6.0\ref\ProektIS.Utility.dll

@@ -1,0 +1,37 @@
+env:
+  - name: DOTNET_RUNTIME_VERSION
+    value: 6.0
+
+build:
+  # Specify the builder image
+  builder: gcr.io/k8s-skaffold/pack
+
+  # Set the buildpacks for your project
+  # Replace "buildpack/dotnet" with the appropriate .NET buildpack
+  # if a specific one is available.
+  # For example, "gcr.io/buildpacks/dotnet-core:3" for .NET Core 3.x.
+  # If not specified, the latest .NET buildpack will be used.
+  # Refer to the official documentation for available .NET buildpacks.
+  # Make sure to use a buildpack compatible with .NET 6.
+  buildpacks:
+    - buildpack/dotnet
+
+  # Specify the entrypoint for the build process
+  # In this case, it assumes your .NET project is in the root directory.
+  # Adjust the entrypoint if your project is in a different directory.
+  entrypoint: dotnet publish -c Release -o /workspace/app
+
+  # Specify the output image location
+  # Replace "gcr.io/your-project/your-image" with your desired image location.
+  # Make sure you have permission to push the image to the specified location.
+  # You can also replace "your-image" with a specific image name.
+  images:
+    - gcr.io/k8s-skaffold/pack
+
+# Optionally, add the necessary steps for testing, linting, or other processes.
+# For example, adding a test step:
+# test:
+#   builder: gcr.io/buildpacks/builder:v1
+#   buildpacks:
+#     - buildpack/dotnet
+#   entrypoint: dotnet test

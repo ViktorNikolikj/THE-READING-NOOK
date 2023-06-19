@@ -1,335 +1,335 @@
 {
   "Files": [
     {
-      "Id": "C:\\Users\\User\\Desktop\\The-Reading-Nook-main\\The-Reading-Nook-main\\ProektISWeb\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\ProektISWeb.bundle.scp.css",
+      "Id": "C:\\Users\\User\\Desktop\\Project\\The-Reading-Nook-main\\ProektISWeb\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\ProektISWeb.bundle.scp.css",
       "PackagePath": "staticwebassets\\ProektISWeb.bundle.scp.css"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\The-Reading-Nook-main\\The-Reading-Nook-main\\ProektISWeb\\wwwroot\\css\\Theme.css",
+      "Id": "C:\\Users\\User\\Desktop\\Project\\The-Reading-Nook-main\\ProektISWeb\\wwwroot\\css\\Theme.css",
       "PackagePath": "staticwebassets\\css\\Theme.css"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\The-Reading-Nook-main\\The-Reading-Nook-main\\ProektISWeb\\wwwroot\\css\\site.css",
+      "Id": "C:\\Users\\User\\Desktop\\Project\\The-Reading-Nook-main\\ProektISWeb\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\The-Reading-Nook-main\\The-Reading-Nook-main\\ProektISWeb\\wwwroot\\favicon.ico",
+      "Id": "C:\\Users\\User\\Desktop\\Project\\The-Reading-Nook-main\\ProektISWeb\\wwwroot\\favicon.ico",
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\The-Reading-Nook-main\\The-Reading-Nook-main\\ProektISWeb\\wwwroot\\images\\Andrea.png",
+      "Id": "C:\\Users\\User\\Desktop\\Project\\The-Reading-Nook-main\\ProektISWeb\\wwwroot\\images\\Andrea.png",
       "PackagePath": "staticwebassets\\images\\Andrea.png"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\The-Reading-Nook-main\\The-Reading-Nook-main\\ProektISWeb\\wwwroot\\images\\Andrej.png",
+      "Id": "C:\\Users\\User\\Desktop\\Project\\The-Reading-Nook-main\\ProektISWeb\\wwwroot\\images\\Andrej.png",
       "PackagePath": "staticwebassets\\images\\Andrej.png"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\The-Reading-Nook-main\\The-Reading-Nook-main\\ProektISWeb\\wwwroot\\images\\The reading nook.png",
+      "Id": "C:\\Users\\User\\Desktop\\Project\\The-Reading-Nook-main\\ProektISWeb\\wwwroot\\images\\The reading nook.png",
       "PackagePath": "staticwebassets\\images\\The reading nook.png"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\The-Reading-Nook-main\\The-Reading-Nook-main\\ProektISWeb\\wwwroot\\images\\The_reading_nook-removebg.png",
+      "Id": "C:\\Users\\User\\Desktop\\Project\\The-Reading-Nook-main\\ProektISWeb\\wwwroot\\images\\The_reading_nook-removebg.png",
       "PackagePath": "staticwebassets\\images\\The_reading_nook-removebg.png"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\The-Reading-Nook-main\\The-Reading-Nook-main\\ProektISWeb\\wwwroot\\images\\products\\1197f6aa-ba69-4fa8-9f0d-09f97e6db264.jpg",
+      "Id": "C:\\Users\\User\\Desktop\\Project\\The-Reading-Nook-main\\ProektISWeb\\wwwroot\\images\\products\\1197f6aa-ba69-4fa8-9f0d-09f97e6db264.jpg",
       "PackagePath": "staticwebassets\\images\\products\\1197f6aa-ba69-4fa8-9f0d-09f97e6db264.jpg"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\The-Reading-Nook-main\\The-Reading-Nook-main\\ProektISWeb\\wwwroot\\images\\products\\2afa0563-f893-4ef2-aced-41013f4eca9d.webp",
+      "Id": "C:\\Users\\User\\Desktop\\Project\\The-Reading-Nook-main\\ProektISWeb\\wwwroot\\images\\products\\2afa0563-f893-4ef2-aced-41013f4eca9d.webp",
       "PackagePath": "staticwebassets\\images\\products\\2afa0563-f893-4ef2-aced-41013f4eca9d.webp"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\The-Reading-Nook-main\\The-Reading-Nook-main\\ProektISWeb\\wwwroot\\images\\products\\3307e71a-d811-46dc-91fd-8f0d21cc5e2b.pdf",
+      "Id": "C:\\Users\\User\\Desktop\\Project\\The-Reading-Nook-main\\ProektISWeb\\wwwroot\\images\\products\\3307e71a-d811-46dc-91fd-8f0d21cc5e2b.pdf",
       "PackagePath": "staticwebassets\\images\\products\\3307e71a-d811-46dc-91fd-8f0d21cc5e2b.pdf"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\The-Reading-Nook-main\\The-Reading-Nook-main\\ProektISWeb\\wwwroot\\images\\products\\41fd9f18-23dd-4b86-9ca0-53bc6f757ebc.webp",
+      "Id": "C:\\Users\\User\\Desktop\\Project\\The-Reading-Nook-main\\ProektISWeb\\wwwroot\\images\\products\\41fd9f18-23dd-4b86-9ca0-53bc6f757ebc.webp",
       "PackagePath": "staticwebassets\\images\\products\\41fd9f18-23dd-4b86-9ca0-53bc6f757ebc.webp"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\The-Reading-Nook-main\\The-Reading-Nook-main\\ProektISWeb\\wwwroot\\images\\products\\56e08e24-0c9f-43c0-9c60-705ca18aa427.webp",
+      "Id": "C:\\Users\\User\\Desktop\\Project\\The-Reading-Nook-main\\ProektISWeb\\wwwroot\\images\\products\\56e08e24-0c9f-43c0-9c60-705ca18aa427.webp",
       "PackagePath": "staticwebassets\\images\\products\\56e08e24-0c9f-43c0-9c60-705ca18aa427.webp"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\The-Reading-Nook-main\\The-Reading-Nook-main\\ProektISWeb\\wwwroot\\images\\products\\63440928-c6ad-4ef7-8149-a103dfcc9ad5.png",
+      "Id": "C:\\Users\\User\\Desktop\\Project\\The-Reading-Nook-main\\ProektISWeb\\wwwroot\\images\\products\\63440928-c6ad-4ef7-8149-a103dfcc9ad5.png",
       "PackagePath": "staticwebassets\\images\\products\\63440928-c6ad-4ef7-8149-a103dfcc9ad5.png"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\The-Reading-Nook-main\\The-Reading-Nook-main\\ProektISWeb\\wwwroot\\images\\products\\84c88937-59d2-4f55-ba73-3f3884988a6c.jpg",
+      "Id": "C:\\Users\\User\\Desktop\\Project\\The-Reading-Nook-main\\ProektISWeb\\wwwroot\\images\\products\\84c88937-59d2-4f55-ba73-3f3884988a6c.jpg",
       "PackagePath": "staticwebassets\\images\\products\\84c88937-59d2-4f55-ba73-3f3884988a6c.jpg"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\The-Reading-Nook-main\\The-Reading-Nook-main\\ProektISWeb\\wwwroot\\images\\products\\9ec7d06d-5c9a-4a8d-9cc4-f4b1bc07670f.jpeg",
+      "Id": "C:\\Users\\User\\Desktop\\Project\\The-Reading-Nook-main\\ProektISWeb\\wwwroot\\images\\products\\9ec7d06d-5c9a-4a8d-9cc4-f4b1bc07670f.jpeg",
       "PackagePath": "staticwebassets\\images\\products\\9ec7d06d-5c9a-4a8d-9cc4-f4b1bc07670f.jpeg"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\The-Reading-Nook-main\\The-Reading-Nook-main\\ProektISWeb\\wwwroot\\images\\products\\a0f55bd5-a383-4170-977e-8fb95d8f0bce.jpg",
+      "Id": "C:\\Users\\User\\Desktop\\Project\\The-Reading-Nook-main\\ProektISWeb\\wwwroot\\images\\products\\a0f55bd5-a383-4170-977e-8fb95d8f0bce.jpg",
       "PackagePath": "staticwebassets\\images\\products\\a0f55bd5-a383-4170-977e-8fb95d8f0bce.jpg"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\The-Reading-Nook-main\\The-Reading-Nook-main\\ProektISWeb\\wwwroot\\images\\products\\c2bd94f1-9373-44be-820a-25e8d9da0ead.jpg",
+      "Id": "C:\\Users\\User\\Desktop\\Project\\The-Reading-Nook-main\\ProektISWeb\\wwwroot\\images\\products\\c2bd94f1-9373-44be-820a-25e8d9da0ead.jpg",
       "PackagePath": "staticwebassets\\images\\products\\c2bd94f1-9373-44be-820a-25e8d9da0ead.jpg"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\The-Reading-Nook-main\\The-Reading-Nook-main\\ProektISWeb\\wwwroot\\images\\products\\e01c0e1d-f638-41d6-b08e-72a9e42322cf.webp",
+      "Id": "C:\\Users\\User\\Desktop\\Project\\The-Reading-Nook-main\\ProektISWeb\\wwwroot\\images\\products\\e01c0e1d-f638-41d6-b08e-72a9e42322cf.webp",
       "PackagePath": "staticwebassets\\images\\products\\e01c0e1d-f638-41d6-b08e-72a9e42322cf.webp"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\The-Reading-Nook-main\\The-Reading-Nook-main\\ProektISWeb\\wwwroot\\images\\products\\eaecf8ef-43e4-4534-b956-38c295b41510.png",
+      "Id": "C:\\Users\\User\\Desktop\\Project\\The-Reading-Nook-main\\ProektISWeb\\wwwroot\\images\\products\\eaecf8ef-43e4-4534-b956-38c295b41510.png",
       "PackagePath": "staticwebassets\\images\\products\\eaecf8ef-43e4-4534-b956-38c295b41510.png"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\The-Reading-Nook-main\\The-Reading-Nook-main\\ProektISWeb\\wwwroot\\images\\products\\f2f52518-49eb-4b0e-8e0a-ceadaae3ae66.jpeg",
+      "Id": "C:\\Users\\User\\Desktop\\Project\\The-Reading-Nook-main\\ProektISWeb\\wwwroot\\images\\products\\f2f52518-49eb-4b0e-8e0a-ceadaae3ae66.jpeg",
       "PackagePath": "staticwebassets\\images\\products\\f2f52518-49eb-4b0e-8e0a-ceadaae3ae66.jpeg"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\The-Reading-Nook-main\\The-Reading-Nook-main\\ProektISWeb\\wwwroot\\images\\products\\f33d6495-8087-44f0-ad85-577ccbcd2471.jpg",
+      "Id": "C:\\Users\\User\\Desktop\\Project\\The-Reading-Nook-main\\ProektISWeb\\wwwroot\\images\\products\\f33d6495-8087-44f0-ad85-577ccbcd2471.jpg",
       "PackagePath": "staticwebassets\\images\\products\\f33d6495-8087-44f0-ad85-577ccbcd2471.jpg"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\The-Reading-Nook-main\\The-Reading-Nook-main\\ProektISWeb\\wwwroot\\images\\products\\f8c23f0a-b841-4dd1-8707-399be264adc4.JPG",
+      "Id": "C:\\Users\\User\\Desktop\\Project\\The-Reading-Nook-main\\ProektISWeb\\wwwroot\\images\\products\\f8c23f0a-b841-4dd1-8707-399be264adc4.JPG",
       "PackagePath": "staticwebassets\\images\\products\\f8c23f0a-b841-4dd1-8707-399be264adc4.JPG"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\The-Reading-Nook-main\\The-Reading-Nook-main\\ProektISWeb\\wwwroot\\images\\products\\sp.png",
+      "Id": "C:\\Users\\User\\Desktop\\Project\\The-Reading-Nook-main\\ProektISWeb\\wwwroot\\images\\products\\sp.png",
       "PackagePath": "staticwebassets\\images\\products\\sp.png"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\The-Reading-Nook-main\\The-Reading-Nook-main\\ProektISWeb\\wwwroot\\images\\viktor.png",
+      "Id": "C:\\Users\\User\\Desktop\\Project\\The-Reading-Nook-main\\ProektISWeb\\wwwroot\\images\\viktor.png",
       "PackagePath": "staticwebassets\\images\\viktor.png"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\The-Reading-Nook-main\\The-Reading-Nook-main\\ProektISWeb\\wwwroot\\js\\site.js",
+      "Id": "C:\\Users\\User\\Desktop\\Project\\The-Reading-Nook-main\\ProektISWeb\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\The-Reading-Nook-main\\The-Reading-Nook-main\\ProektISWeb\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "Id": "C:\\Users\\User\\Desktop\\Project\\The-Reading-Nook-main\\ProektISWeb\\wwwroot\\lib\\bootstrap\\LICENSE",
       "PackagePath": "staticwebassets\\lib\\bootstrap"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\The-Reading-Nook-main\\The-Reading-Nook-main\\ProektISWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "Id": "C:\\Users\\User\\Desktop\\Project\\The-Reading-Nook-main\\ProektISWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\The-Reading-Nook-main\\The-Reading-Nook-main\\ProektISWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "Id": "C:\\Users\\User\\Desktop\\Project\\The-Reading-Nook-main\\ProektISWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\The-Reading-Nook-main\\The-Reading-Nook-main\\ProektISWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "Id": "C:\\Users\\User\\Desktop\\Project\\The-Reading-Nook-main\\ProektISWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\The-Reading-Nook-main\\The-Reading-Nook-main\\ProektISWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "Id": "C:\\Users\\User\\Desktop\\Project\\The-Reading-Nook-main\\ProektISWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\The-Reading-Nook-main\\The-Reading-Nook-main\\ProektISWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "Id": "C:\\Users\\User\\Desktop\\Project\\The-Reading-Nook-main\\ProektISWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\The-Reading-Nook-main\\The-Reading-Nook-main\\ProektISWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "Id": "C:\\Users\\User\\Desktop\\Project\\The-Reading-Nook-main\\ProektISWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\The-Reading-Nook-main\\The-Reading-Nook-main\\ProektISWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "Id": "C:\\Users\\User\\Desktop\\Project\\The-Reading-Nook-main\\ProektISWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\The-Reading-Nook-main\\The-Reading-Nook-main\\ProektISWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "Id": "C:\\Users\\User\\Desktop\\Project\\The-Reading-Nook-main\\ProektISWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\The-Reading-Nook-main\\The-Reading-Nook-main\\ProektISWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "Id": "C:\\Users\\User\\Desktop\\Project\\The-Reading-Nook-main\\ProektISWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\The-Reading-Nook-main\\The-Reading-Nook-main\\ProektISWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "Id": "C:\\Users\\User\\Desktop\\Project\\The-Reading-Nook-main\\ProektISWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\The-Reading-Nook-main\\The-Reading-Nook-main\\ProektISWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "Id": "C:\\Users\\User\\Desktop\\Project\\The-Reading-Nook-main\\ProektISWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\The-Reading-Nook-main\\The-Reading-Nook-main\\ProektISWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "Id": "C:\\Users\\User\\Desktop\\Project\\The-Reading-Nook-main\\ProektISWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\The-Reading-Nook-main\\The-Reading-Nook-main\\ProektISWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "Id": "C:\\Users\\User\\Desktop\\Project\\The-Reading-Nook-main\\ProektISWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\The-Reading-Nook-main\\The-Reading-Nook-main\\ProektISWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "Id": "C:\\Users\\User\\Desktop\\Project\\The-Reading-Nook-main\\ProektISWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\The-Reading-Nook-main\\The-Reading-Nook-main\\ProektISWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "Id": "C:\\Users\\User\\Desktop\\Project\\The-Reading-Nook-main\\ProektISWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\The-Reading-Nook-main\\The-Reading-Nook-main\\ProektISWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "Id": "C:\\Users\\User\\Desktop\\Project\\The-Reading-Nook-main\\ProektISWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\The-Reading-Nook-main\\The-Reading-Nook-main\\ProektISWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "Id": "C:\\Users\\User\\Desktop\\Project\\The-Reading-Nook-main\\ProektISWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\The-Reading-Nook-main\\The-Reading-Nook-main\\ProektISWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "Id": "C:\\Users\\User\\Desktop\\Project\\The-Reading-Nook-main\\ProektISWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\The-Reading-Nook-main\\The-Reading-Nook-main\\ProektISWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "Id": "C:\\Users\\User\\Desktop\\Project\\The-Reading-Nook-main\\ProektISWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\The-Reading-Nook-main\\The-Reading-Nook-main\\ProektISWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "Id": "C:\\Users\\User\\Desktop\\Project\\The-Reading-Nook-main\\ProektISWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\The-Reading-Nook-main\\The-Reading-Nook-main\\ProektISWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "Id": "C:\\Users\\User\\Desktop\\Project\\The-Reading-Nook-main\\ProektISWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\The-Reading-Nook-main\\The-Reading-Nook-main\\ProektISWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "Id": "C:\\Users\\User\\Desktop\\Project\\The-Reading-Nook-main\\ProektISWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\The-Reading-Nook-main\\The-Reading-Nook-main\\ProektISWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "Id": "C:\\Users\\User\\Desktop\\Project\\The-Reading-Nook-main\\ProektISWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\The-Reading-Nook-main\\The-Reading-Nook-main\\ProektISWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "Id": "C:\\Users\\User\\Desktop\\Project\\The-Reading-Nook-main\\ProektISWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\The-Reading-Nook-main\\The-Reading-Nook-main\\ProektISWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Id": "C:\\Users\\User\\Desktop\\Project\\The-Reading-Nook-main\\ProektISWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\The-Reading-Nook-main\\The-Reading-Nook-main\\ProektISWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Id": "C:\\Users\\User\\Desktop\\Project\\The-Reading-Nook-main\\ProektISWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\The-Reading-Nook-main\\The-Reading-Nook-main\\ProektISWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Id": "C:\\Users\\User\\Desktop\\Project\\The-Reading-Nook-main\\ProektISWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\The-Reading-Nook-main\\The-Reading-Nook-main\\ProektISWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Id": "C:\\Users\\User\\Desktop\\Project\\The-Reading-Nook-main\\ProektISWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\The-Reading-Nook-main\\The-Reading-Nook-main\\ProektISWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "Id": "C:\\Users\\User\\Desktop\\Project\\The-Reading-Nook-main\\ProektISWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\The-Reading-Nook-main\\The-Reading-Nook-main\\ProektISWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "Id": "C:\\Users\\User\\Desktop\\Project\\The-Reading-Nook-main\\ProektISWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\The-Reading-Nook-main\\The-Reading-Nook-main\\ProektISWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "Id": "C:\\Users\\User\\Desktop\\Project\\The-Reading-Nook-main\\ProektISWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\The-Reading-Nook-main\\The-Reading-Nook-main\\ProektISWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "Id": "C:\\Users\\User\\Desktop\\Project\\The-Reading-Nook-main\\ProektISWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\The-Reading-Nook-main\\The-Reading-Nook-main\\ProektISWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "Id": "C:\\Users\\User\\Desktop\\Project\\The-Reading-Nook-main\\ProektISWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\The-Reading-Nook-main\\The-Reading-Nook-main\\ProektISWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "Id": "C:\\Users\\User\\Desktop\\Project\\The-Reading-Nook-main\\ProektISWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\The-Reading-Nook-main\\The-Reading-Nook-main\\ProektISWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "Id": "C:\\Users\\User\\Desktop\\Project\\The-Reading-Nook-main\\ProektISWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\The-Reading-Nook-main\\The-Reading-Nook-main\\ProektISWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "Id": "C:\\Users\\User\\Desktop\\Project\\The-Reading-Nook-main\\ProektISWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\The-Reading-Nook-main\\The-Reading-Nook-main\\ProektISWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "Id": "C:\\Users\\User\\Desktop\\Project\\The-Reading-Nook-main\\ProektISWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\The-Reading-Nook-main\\The-Reading-Nook-main\\ProektISWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "Id": "C:\\Users\\User\\Desktop\\Project\\The-Reading-Nook-main\\ProektISWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\The-Reading-Nook-main\\The-Reading-Nook-main\\ProektISWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "Id": "C:\\Users\\User\\Desktop\\Project\\The-Reading-Nook-main\\ProektISWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\The-Reading-Nook-main\\The-Reading-Nook-main\\ProektISWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "Id": "C:\\Users\\User\\Desktop\\Project\\The-Reading-Nook-main\\ProektISWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\The-Reading-Nook-main\\The-Reading-Nook-main\\ProektISWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "Id": "C:\\Users\\User\\Desktop\\Project\\The-Reading-Nook-main\\ProektISWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\The-Reading-Nook-main\\The-Reading-Nook-main\\ProektISWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "Id": "C:\\Users\\User\\Desktop\\Project\\The-Reading-Nook-main\\ProektISWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\The-Reading-Nook-main\\The-Reading-Nook-main\\ProektISWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Id": "C:\\Users\\User\\Desktop\\Project\\The-Reading-Nook-main\\ProektISWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\The-Reading-Nook-main\\The-Reading-Nook-main\\ProektISWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "Id": "C:\\Users\\User\\Desktop\\Project\\The-Reading-Nook-main\\ProektISWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\The-Reading-Nook-main\\The-Reading-Nook-main\\ProektISWeb\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Id": "C:\\Users\\User\\Desktop\\Project\\The-Reading-Nook-main\\ProektISWeb\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\The-Reading-Nook-main\\The-Reading-Nook-main\\ProektISWeb\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Id": "C:\\Users\\User\\Desktop\\Project\\The-Reading-Nook-main\\ProektISWeb\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\The-Reading-Nook-main\\The-Reading-Nook-main\\ProektISWeb\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Id": "C:\\Users\\User\\Desktop\\Project\\The-Reading-Nook-main\\ProektISWeb\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\The-Reading-Nook-main\\The-Reading-Nook-main\\ProektISWeb\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Id": "C:\\Users\\User\\Desktop\\Project\\The-Reading-Nook-main\\ProektISWeb\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\The-Reading-Nook-main\\The-Reading-Nook-main\\ProektISWeb\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Id": "C:\\Users\\User\\Desktop\\Project\\The-Reading-Nook-main\\ProektISWeb\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\The-Reading-Nook-main\\The-Reading-Nook-main\\ProektISWeb\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Id": "C:\\Users\\User\\Desktop\\Project\\The-Reading-Nook-main\\ProektISWeb\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\The-Reading-Nook-main\\The-Reading-Nook-main\\ProektISWeb\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Id": "C:\\Users\\User\\Desktop\\Project\\The-Reading-Nook-main\\ProektISWeb\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\The-Reading-Nook-main\\The-Reading-Nook-main\\ProektISWeb\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Id": "C:\\Users\\User\\Desktop\\Project\\The-Reading-Nook-main\\ProektISWeb\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\The-Reading-Nook-main\\The-Reading-Nook-main\\ProektISWeb\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Id": "C:\\Users\\User\\Desktop\\Project\\The-Reading-Nook-main\\ProektISWeb\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\The-Reading-Nook-main\\The-Reading-Nook-main\\ProektISWeb\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Id": "C:\\Users\\User\\Desktop\\Project\\The-Reading-Nook-main\\ProektISWeb\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\The-Reading-Nook-main\\The-Reading-Nook-main\\ProektISWeb\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Id": "C:\\Users\\User\\Desktop\\Project\\The-Reading-Nook-main\\ProektISWeb\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\The-Reading-Nook-main\\The-Reading-Nook-main\\ProektISWeb\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Id": "C:\\Users\\User\\Desktop\\Project\\The-Reading-Nook-main\\ProektISWeb\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
     },
     {

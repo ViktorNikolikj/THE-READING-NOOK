@@ -82,3 +82,15 @@ C:\Users\User\Desktop\The-Reading-Nook-main\The-Reading-Nook-main\ProektIS.Utili
 C:\Users\User\Desktop\The-Reading-Nook-main\The-Reading-Nook-main\ProektIS.Utility\obj\Debug\net6.0\refint\ProektIS.Utility.dll
 C:\Users\User\Desktop\The-Reading-Nook-main\The-Reading-Nook-main\ProektIS.Utility\obj\Debug\net6.0\ProektIS.Utility.pdb
 C:\Users\User\Desktop\The-Reading-Nook-main\The-Reading-Nook-main\ProektIS.Utility\obj\Debug\net6.0\ref\ProektIS.Utility.dll
+C:\Users\User\Desktop\Project\The-Reading-Nook-main\ProektIS.Utility\bin\Debug\net6.0\ProektIS.Utility.deps.json
+C:\Users\User\Desktop\Project\The-Reading-Nook-main\ProektIS.Utility\bin\Debug\net6.0\ProektIS.Utility.dll
+C:\Users\User\Desktop\Project\The-Reading-Nook-main\ProektIS.Utility\bin\Debug\net6.0\ProektIS.Utility.pdb
+C:\Users\User\Desktop\Project\The-Reading-Nook-main\ProektIS.Utility\obj\Debug\net6.0\ProektIS.Utility.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Project\The-Reading-Nook-main\ProektIS.Utility\obj\Debug\net6.0\ProektIS.Utility.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Project\The-Reading-Nook-main\ProektIS.Utility\obj\Debug\net6.0\ProektIS.Utility.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Project\The-Reading-Nook-main\ProektIS.Utility\obj\Debug\net6.0\ProektIS.Utility.AssemblyInfo.cs
+C:\Users\User\Desktop\Project\The-Reading-Nook-main\ProektIS.Utility\obj\Debug\net6.0\ProektIS.Utility.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Project\The-Reading-Nook-main\ProektIS.Utility\obj\Debug\net6.0\ProektIS.Utility.dll
+C:\Users\User\Desktop\Project\The-Reading-Nook-main\ProektIS.Utility\obj\Debug\net6.0\refint\ProektIS.Utility.dll
+C:\Users\User\Desktop\Project\The-Reading-Nook-main\ProektIS.Utility\obj\Debug\net6.0\ProektIS.Utility.pdb
+C:\Users\User\Desktop\Project\The-Reading-Nook-main\ProektIS.Utility\obj\Debug\net6.0\ref\ProektIS.Utility.dll
